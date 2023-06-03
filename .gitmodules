@@ -1,0 +1,3 @@
+[submodule "tip-calculator-app-main"]
+	path = tip-calculator-app-main
+	url = git@github.com:JAILBREAK-101/tip-calculator-app-main.git

@@ -2,4 +2,4 @@
 [1] PROJECT(s) built with **<HTML/>**, **{CSS}** (or **{SASS}**) and **JavaScript** (or **TypeScript** )
 
 ## PROJECTS
-### 1. 
+### 1. Tip Calculator - HTML, SASS and JavaScript (Object-Oriented Principle)

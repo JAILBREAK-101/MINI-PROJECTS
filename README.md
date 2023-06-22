@@ -1,6 +1,6 @@
 # MINI-PROJECTS
 
-[1] PROJECT(s) built with **<HTML/>**, **{CSS}** (or **{SASS}**) and **JavaScript** (or **TypeScript** )
+MINI-PROJECTS built with **HTML**, **CSS** (or **{SASS}**), **JavaScript** (or **TypeScript** ), and React.Js (or AngularJS)
 
 ## PROJECTS
 
@@ -12,7 +12,7 @@ A Frontend Mentor challenge I built to test my understanding of the object orien
 
 Live Site:
 
-#### Screenshot
+#### Screenshot1
 
 ![Empty](./tip-calculator-app-main/design/desktop-design-completed.jpg)
 
@@ -22,6 +22,6 @@ A Frontend Mentor challenge I built to test my TypeScript skills.
 
 Live Site: ``null``
 
-#### screenshot
+#### Screenshot2
 
 ``null``

@@ -1,3 +1,6 @@
 [submodule "tip-calculator-app-main"]
 	path = tip-calculator-app-main
 	url = git@github.com:JAILBREAK-101/tip-calculator-app-main.git
+[submodule "shortly-url-shortner"]
+	path = shortly-url-shortner
+	url = https://github.com/JAILBREAK-101/shortly-url-shortner.git
